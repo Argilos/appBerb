@@ -103,5 +103,3 @@ _Add screenshots or GIFs of your app in action here!_
 - 📈 Analytics for appointment trends.
 
 ---
-
-Let me know if you’d like any more customizations or if you want this as a ready-to-paste file!
