@@ -1,7 +1,3 @@
-Absolutely! Here’s a cleaner, more organized, and visually enhanced version of your README.md. I’ve added Markdown improvements, better sectioning, and consistent formatting while preserving all your information.
-
----
-
 # Barbershop App 📅💈
 
 A modern barbershop management and booking system built with **React Native** and **Firebase**.  
