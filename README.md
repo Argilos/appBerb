@@ -1,34 +1,32 @@
 Barbershop App 📅💈
 
-
 A modern barbershop management and booking system built with React Native and Firebase. This app allows customers to easily book appointments, while providing barbers and administrators with a powerful admin panel to manage schedules, approve or cancel appointments, and block time slots.
 
+
+
 ✨ Features
+
 For Customers:
 📆 Book appointments by selecting preferred services, barbers, dates, and times.
-
 ✅ Receive booking confirmations and details.
-
 🛡️ Secure authentication for user management (requires Firebase setup).
+
 
 For Admins (Barbershop Staff):
 🔑 Admin Panel:
 
 View and manage all pending, approved, and blocked bookings.
-
 Approve or reject customer booking requests.
-
 Block or unblock time slots directly in the calendar.
-
 View detailed information about bookings and customers.
 
+
 📊 Calendar View:
-
 Visual overview of scheduled appointments.
-
 Color-coded status indicators (e.g., approved, blocked, pending).
-
 📝 Cancel bookings with a reason for transparency.
+
+
 
 🚀 Technologies Used
 React Native for mobile development.
