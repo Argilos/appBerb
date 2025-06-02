@@ -1,4 +1,6 @@
 Barbershop App 📅💈
+
+
 A modern barbershop management and booking system built with React Native and Firebase. This app allows customers to easily book appointments, while providing barbers and administrators with a powerful admin panel to manage schedules, approve or cancel appointments, and block time slots.
 
 ✨ Features
